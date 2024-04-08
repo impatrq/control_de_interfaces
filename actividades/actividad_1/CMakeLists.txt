@@ -21,7 +21,7 @@ pico_sdk_init()
 
 # Add the source files
 add_executable(${PROJECT_NAME}
-	main.c
+	src/main.c
 )
 
 # Enable/disable stdio output
