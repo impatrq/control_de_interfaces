@@ -23,47 +23,46 @@ El proceso es bastante sencillo:
 
 ## Compilar y flashear en Linux
 
-El proceso requiere algo de nocion de algunos comandos de consola pero en reglas generales es bastante sencillo.
+El proceso requiere algo de nocion de algunos comandos de consola pero lo automatizamos en un archivo [Makefile](Makefile) para hacerlo mas facil.
 
 1. Vamos a abrir una terminal con **Ctrl + Alt + T**.
 2. Vamos a navegar hasta el directorio de la actividad moviendonos en el sistema de archivos con el comando **cd [directorio]**. Podemos usar **cd ..** para volver hacia atras y *ls* para ver que directorios tenemos disponibles para entrar.
 3. Una vez que estemos dentro del directorio de la actividad, vamos a escribir:
 
 ```bash
-mkdir build && cd build
+make help
 ```
 
-Esto va a crear un directorio llamado _build_ y luego entraremos.
+Esto va a darnos algunas instrucciones sobre que opciones podemos usar.
 
-4. Una vez dentro, vamos a correr el comando:
-
-```bash
-cmake ..
-```
-
-Esto va a leer el archivo `CMakeLists.txt` que se encuentra en el directorio anterior y crear las dependencias necesarias entre archivos para luego poder compilar.
-
-5. Si el paso anterior no tiro errores, vamos a proceder a compilar escribiendo:
+4. Ahora vamos a escribir el comando:
 
 ```bash
 make
 ```
 
-Esto tomara tiempo de acuerdo al programa que se compile. Si arrojara errores, los resolvemos y luego de guardar el archivo, volvemos a ejecutar este comando.
+Esto va a realizar el proceso completo de compilacion, generando un directorio `build` con los binarios necesarios para flashear.
 
-6. Para flashear el microcontrolador, vamos a conectar la Raspberry Pi Pico a la computadora apretando el boton de **BOOTSEL**, deberia aparecernos como una unidad de almacenamiento.
-7. Una vez que haya aparecido, vamos a correr el comando:
+5. Si el paso anterior no tiro errores, vamos a conectar la Raspberry Pi Pico a la computadora apretando el boton de **BOOTSEL**, deberia aparecernos como una unidad de almacenamiento. Entonces vamos a escribir en la consola:
 
 ```bash
-cp *.uf2 /media/alumno/RPI-RP2
+make flash
 ```
 
-Esto va a copiar el binario con nuestro programa compilado al microcontrolador para flashearlo.
+Lo que va a proceder a copiar el binario necesario en la Pico para flashearla.
 
-8. Para poder ver los mensajes del USB, vamos a abrir un monitor serial escribiendo:
+Si por el contrario, el paso anterior tiro errores, vamos a corregirlos en nuestro `main.c` y vamos a correr el comando:
 
 ```bash
-sudo minicom -b 115200 -o -D /dev/ttyACM0
+make build
+```
+
+Este va a volver a intentar compilar los archivos.
+
+6. Para poder ver los mensajes del USB, vamos a abrir un monitor serial escribiendo:
+
+```bash
+make monitor
 ```
 
 Esto nos va a abrir una comunicacion con la Raspberry Pi Pico donde podemos ver los mensajes que nos diga. Para salir de minicom, usamos la combinacion de teclas **Ctrl + A** y luego **Q**.
