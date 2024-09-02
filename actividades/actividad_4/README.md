@@ -17,6 +17,12 @@ La idea es comenzar a usar Timers y ver cómo programar eventos por tiempo.
 5. Compilar y flashear el programa. Seguir las instrucciones correspondientes para [VS Code con PlatformIO](#compilar-y-flashear-con-platformio) u [otros](#compilar-y-flashear-en-linux).
 6. Seguir las [instrucciones](#subir-a-github) para subir esta actividad a GitHub.
 
+<center>
+
+![](https://upload.wikimedia.org/wikipedia/commons/b/bf/LED_Lamp_Chaser.gif)
+
+</center>
+
 ## Compilar y flashear con PlatformIO
 
 El proceso es bastante sencillo:
