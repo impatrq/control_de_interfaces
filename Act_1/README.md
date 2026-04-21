@@ -31,7 +31,10 @@ Este Plugin nos permitirá trabajar en proyectos C/C++ con nuestra Raspberry
 int main(void) {
   // Inicializo el USB
   stdio_init_all();
-  cyw43_arch_init();
+  if (cyw43_arch_init()) {
+        printf("Wi-Fi init failed");
+        return -1;
+    }
 
   // Mensaje por USB
   printf("\nHola mundo!\n");
