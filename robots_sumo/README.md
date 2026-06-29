@@ -13,6 +13,10 @@ Reemplazar `<URL_DEL_FORK>` por la URL del fork del repositorio del equipo.
 ```bash
 git clone <URL_DEL_FORK>
 ```
+Ingresar al directorio que acabamos de clonar `control_de_interfaces`
+```bash
+cd control_de_interfaces
+```
 Ingresar al directorio del proyecto.
 
 ```bash
