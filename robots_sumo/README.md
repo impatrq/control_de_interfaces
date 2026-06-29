@@ -33,7 +33,7 @@ git branch -a
 
 Por ejemplo, para trabajar sobre la rama `firmware`:
 ```bash
-git checkout firmware
+git switch firmware
 ```
 Para verificar en qué rama estoy:
 
