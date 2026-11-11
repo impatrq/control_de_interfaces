@@ -43,6 +43,7 @@ blob:https://web.whatsapp.com/3ade5102-71c2-48fe-8f01-b29972ce301d
 !(blob:https://web.whatsapp.com/b52c41eb-f111-4897-9ff9-1f1fe9f440c0)
 !(blob:https://web.whatsapp.com/b8b47dab-bfb8-41c4-99b0-14ef77472e76)
 !(blob:https://web.whatsapp.com/3ade5102-71c2-48fe-8f01-b29972ce301d)
+![Pilas](imagenes/Pilas3Ay2A.jpeg)
 
 ### Tareas pendientes:
 - Impresión de la carcasa.
