@@ -1,4 +1,3 @@
-NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo correspondiente
 
 # BITÁCORA DE PROYECTO – ROBOT SUMO
 
@@ -39,10 +38,12 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
+![Medidas](imagenes/MedidasRobot1.jpeg)
+![Vista](imagenes/Vista.jpeg)
+![Resultado](imagenes/Carcaza.jpeg)
 
 ### Tareas pendientes:
 - Probar todo el circuito una vez armado.
-
 
 ### APORTES INDIVIDUALES
 
