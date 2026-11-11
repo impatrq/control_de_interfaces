@@ -4,3 +4,4 @@ Se empezó por el chasis y la estructura del robot. Se fueron armando y editando
 
 
 6/11: Se termino la carcaza luego de correciones en medidas, diseño y funcionalidad. Se quito la cuña delantera y se decidio no implementar las barras plasticas debido a la no resolucion en como añadirlas. Resultado final proximo a impresion.
+![Resultado](imagen/Carcaza.jpeg)
