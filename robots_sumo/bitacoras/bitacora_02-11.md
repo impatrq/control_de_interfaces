@@ -45,18 +45,18 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 
 ### APORTES INDIVIDUALES
-Integrante: Blasi, Máximo. 
+
+- Integrante: Blasi, Máximo. 
 Tarea realizada:
 Se encargó del diseño de la carcasa y de las medidas.
-Integrante: Baruque, Mercedes.
+- Integrante: Baruque, Mercedes.
 Tarea realizada:
 Se encargó del armado del circuito.
-Integrante: Barrientos, Dylan.
-Tarea realizada:
--
-Integrante: Borecki, Florencia.
+- Integrante: Barrientos, Dylan.
+Tarea realizada: - 
+- Integrante: Borecki, Florencia.
 Tarea realizada:
 Se vió en la obligación de ayudar al profesor a cargo del traslado de elementos.
-Integrante: Borecki, Nicolás.
+- Integrante: Borecki, Nicolás.
 Tarea realizada:
 Se vió en la obligación de ayudar al profesor a cargo del traslado de elementos.
