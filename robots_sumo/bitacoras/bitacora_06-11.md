@@ -41,6 +41,8 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
+![Soldado](imagenes/ProcesoSoldado.jpeg)
+
 
 ### Tareas pendientes:
 - Correr el programa en la Raspberry.
