@@ -2,3 +2,5 @@ Se empezó por el chasis y la estructura del robot. Se fueron armando y editando
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6e1e1bf8-8def-4c32-8efc-d57ead19edcd" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/8bd7aa6a-c568-41ad-ba44-b62c8cbe1e2d" />
 
+
+6/11: Se termino la carcaza luego de correciones en medidas, diseño y funcionalidad. Se quito la cuña delantera y se decidio no implementar las barras plasticas debido a la no resolucion en como añadirlas. Resultado final proximo a impresion.
