@@ -2,11 +2,11 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 # BITÁCORA DE PROYECTO – ROBOT SUMO
 
-## Equipo: _______________________________
-## Nombre del Robot: ______________________
-## Capitán: _______________________________
-## Subcapitán: ____________________________
-## Integrantes:
+## Equipo: Numero 2 (4to 2da AVC Com A)
+## Nombre del Robot:B-567
+## Capitán: Blasi Maximo
+## Subcapitán: Barrientos Dylan
+## Integrantes:Baruque Mercedes,Borecki Florencia,Borecki Nicolas
 -
 -
 -
