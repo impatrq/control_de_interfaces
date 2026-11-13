@@ -1,2 +1,7 @@
-Carpeta designada para la estructura de robot -nombre-
+Se empezó por el chasis y la estructura del robot. Se fueron armando y editando de a poco todos los componentes para que encajen bien, como las ruedas, los soportes de los motores y el espacio para poner la batería y los cables.En la parte de adelante se puso una forma triangular como una cuña. La idea de esto es que cuando otro robot sumo venga a chocar de frente, rebote o se desvíe para un costado por la misma forma del triángulo, haciendo que pierda el control y la fuerza de empuje.Para terminar el modelo, también se pensó en sumarle dos barras plásticas planas a los lados. Esto va a servir para tener más alcance, agarrar a los otros robots, arrinconarlos y empujarlos de forma más simple para sacarlos del círculo.
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6e1e1bf8-8def-4c32-8efc-d57ead19edcd" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/8bd7aa6a-c568-41ad-ba44-b62c8cbe1e2d" />
 
+
+6/11: Se termino la carcaza luego de correciones en medidas, diseño y funcionalidad. Se quito la cuña delantera y se decidio no implementar las barras plasticas debido a la no resolucion en como añadirlas. Resultado final proximo a impresion.
+![Resultado](imagen/Carcaza.jpeg)
