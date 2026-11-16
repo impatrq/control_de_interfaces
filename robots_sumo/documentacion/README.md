@@ -93,3 +93,7 @@ En el plano se observa que las líneas de habilitación de velocidad están unid
 ###4 Alimentación y Tierra (GND)
  * El pin de GND de la Raspberry Pi Pico W se conecta a la línea de tierra común que va al GND del Puente H y al negativo de la fuente de alimentación.
  * El pin de 5V (o alimentación principal) alimenta el sistema y se conecta al pin de voltaje del Puente H.
+
+
+###  Investigación Teórica (PWM)
+El PWM (modulación por ancho de pulso) es una técnica electrónica que sirve para controlar la potencia que recibe un dispositivo, como un motor eléctrico. Funciona encendiendo y apagando la corriente muy rápidamente, variando el tiempo que permanece encendida. De esta manera, permite regular la velocidad de los motores y la intensidad de las luces. Se utiliza en ventiladores, robots, autos eléctricos, luces LED y proyectos con Arduino. En conclusión, el PWM permite controlar la velocidad y la potencia de distintos dispositivos electrónicos de una manera sencilla.
