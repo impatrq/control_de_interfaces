@@ -66,7 +66,7 @@ Tarea realizada: Programación de Raspberry.
   
 #### Integrante: Blasi Máximo.
 
-Tarea realizada: Programacioón de Raspberry.
+Tarea realizada: Programación de Raspberry.
 - Se logró la programación del avance y retroceso de las ruedas mediante el intervalo de los motores.
 
 #### Integrante: Borecki Florencia.
