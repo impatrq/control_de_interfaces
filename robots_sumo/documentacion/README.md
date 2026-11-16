@@ -25,7 +25,7 @@ Repositorio designado para el registro, la documentación y el desarrollo del ro
 
 ###  Investigación Teórica (Puente H)
 Martín, Sebas y Benjamín investigaron a fondo sobre el **Puente H**, descubriendo que:
-> Es un circuito eléctrico que permite a un motor de corriente continua (DC) girar en ambos sentidos y controlar su velocidad de forma precisa.
+> El puente H es un circuito electrónico que sirve para controlar el sentido de giro de un motor eléctrico. Se llama así porque sus componentes están conectados de una forma parecida a la letra H. Su función es permitir que un motor gire hacia adelante o hacia atrás, cambiando el sentido en el que circula la corriente eléctrica. Se utiliza principalmente en robots, autos eléctricos, juguetes a control remoto y proyectos con Arduino. En conclusión, es un circuito que permite controlar el movimiento de los motores de manera sencilla.
 
 ---
 
