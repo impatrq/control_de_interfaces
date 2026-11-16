@@ -8,19 +8,17 @@
 ## Subcapitán: Barrientos Dylan.
 ## Integrantes:
 - Baruque, Mercedes.
-- Barrientos, Dylan.
-- Blasi, Máximo.
 - Borecki, Florencia.
 - Borecki, Nicolás.
 
 ## REGISTRO DE ACTIVIDADES
 ### Fecha:7/9/26
 ### Integrantes presentes:
-- Barrientos. Dylan
-- Baruque, Mercedes
-- Blasi, Máximo
-- Borecki, Florencia
-- Borecki, Nicolás
+- Barrientos. Dylan.
+- Baruque, Mercedes.
+- Blasi, Máximo.
+- Borecki, Florencia.
+- Borecki, Nicolás.
 
 ### Objetivos de la jornada:
 - Investigación sobre alimentación de la Raspberry.
@@ -29,28 +27,16 @@
 - Programación de Raspberry. 
 
 ### Actividades realizadas:
-- Seguimos investigando sobre la Raspberry pi pico w
-- Programación del código del microcontrolador 
+- Seguimos investigando sobre la Raspberry pi pico w.
+- Programación del código del microcontrolador. 
 
 ### Problemas encontrados:
-- La raspberry soporta 5v y nosotros tenemos una fuente de 6v
-- No podiamos poner una resistencia ya que se iba a sobrecalentar
--
+- La raspberry soporta 5v y nosotros tenemos una fuente de 6v.
+- No podiamos poner una resistencia ya que se iba a sobrecalentar.
 
 ### Soluciones implementadas o propuestas:
 - Estamos tratando de implementar una resistencia para que bajar la corriente a 5v
 - Entonces propusimos poner un diodo 
--
-
-### Pruebas realizadas:
--
--
--
-
-### Resultados obtenidos:
-- 
--
--
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/818cbae9-5e62-4b2b-8a6b-1363bf761f5b" />
