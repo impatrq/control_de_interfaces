@@ -72,3 +72,24 @@ La conexión en serie hace que los voltajes de las cuatro pilas se sumen:
 
 ### Puente H
 ![diagrama.jpeg](https://megatronica.cc/wp-content/uploads/2022/02/L298N-ECUADOR-CONECCION-ARDUINO-DRIVER-PUENTE-H-L298N-Modulo-Driver-Motor-A-pasos-PINOUT_1.jpg)
+
+###las conexiones
+las conexiones que van desde la Raspberry Pi Pico W hacia el Puente H (y los motores/alimentación) se distribuyen de la siguiente manera:
+###1 Entradas de Control de Motores (Desde la Pico W hacia el Puente H)
+Las líneas de control de dirección salen de los pines GPIO de la Raspberry Pi Pico W y se conectan a los pines de entrada del puente H:
+ * GPIO 2 se conecta a IN1
+ * GPIO 3 se conecta a IN2
+ * GPIO 6 se conecta a IN3
+ * GPIO 4 se conecta a IN4
+###2 Habilitadores (Enable - ENA / ENB)
+En el plano se observa que las líneas de habilitación de velocidad están unidas y conectadas a pines de control:
+ * ENB está conectado a GPIO 5
+ * ENA está conectado a GPIO 7
+   
+###3 Salidas a los Motores
+ * OUT1 y OUT2 del Puente H van conectados a los terminales positivo (+) y negativo (-) del Motor 1 (M1).
+ * OUT3 y OUT4 del Puente H van conectados a los terminales del Motor 2 (M2).
+   
+###4 Alimentación y Tierra (GND)
+ * El pin de GND de la Raspberry Pi Pico W se conecta a la línea de tierra común que va al GND del Puente H y al negativo de la fuente de alimentación.
+ * El pin de 5V (o alimentación principal) alimenta el sistema y se conecta al pin de voltaje del Puente H.
