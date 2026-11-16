@@ -69,3 +69,6 @@ El portapilas utiliza 4 pilas tipo AAA (UM-4). Cada pila proporciona aproximadam
 La conexión en serie hace que los voltajes de las cuatro pilas se sumen:
 
 1,5 V + 1,5 V + 1,5 V + 1,5 V = 6 V.
+
+### Puente H
+![diagrama.jpeg](https://megatronica.cc/wp-content/uploads/2022/02/L298N-ECUADOR-CONECCION-ARDUINO-DRIVER-PUENTE-H-L298N-Modulo-Driver-Motor-A-pasos-PINOUT_1.jpg)
