@@ -29,29 +29,11 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 - Ensamblado de kit
 
 ### Actividades realizadas:
-- Investacion de puente H
-- Diseño en 3d del robot
-- 
+- Se finlaizó la investigación de puente H
+- Se avanzó con el modelaje de la estructura de la carcasa.
+- Sé realizó el reconocimiento de los materiales.
 
-### Problemas encontrados:
-- 
--
--
 
-### Soluciones implementadas o propuestas:
--
--
--
-
-### Pruebas realizadas:
--
--
--
-
-### Resultados obtenidos:
-- 
--
--
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e3af9789-b73d-4e85-8b4a-b83f1d6aa8d2" />
