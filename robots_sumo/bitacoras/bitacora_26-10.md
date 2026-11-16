@@ -36,7 +36,6 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 ### Problemas encontrados:
 - Falta de estaño.
 - Confusión el los pines durante el armado.
-blob:https://web.whatsapp.com/3ade5102-71c2-48fe-8f01-b29972ce301d
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
 ![BocetoConexionn](imagenes/ConexionesPapel.jpeg)
@@ -48,7 +47,6 @@ blob:https://web.whatsapp.com/3ade5102-71c2-48fe-8f01-b29972ce301d
 - Impresión de la carcasa.
 - Probar el funcionamiento de los motores. 
 - Finalizar el armado completo del circuito.
-- 
 
 ### APORTES INDIVIDUALES
 Integrante: Blasi, Máximo
