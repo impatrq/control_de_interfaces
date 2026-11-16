@@ -23,13 +23,13 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 - Borecki Nicolas
 
 ### Objetivos de la jornada:
-- Investigación sobre puente H y programación
-- Modelaje de la estructura y adicionales
-- Reconocimiento de materiales
-- Ensamblado de kit
+- Investigación sobre puente H y programación.
+- Modelaje de la estructura y adicionales.
+- Reconocimiento de materiales.
+- Ensamblado de kit.
 
 ### Actividades realizadas:
-- Se finlaizó la investigación de puente H
+- Se finalizó la investigación de puente H y de los GPIO de la Raspberry.
 - Se avanzó con el modelaje de la estructura de la carcasa.
 - Sé realizó el reconocimiento de los materiales.
 
@@ -40,18 +40,18 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 
 ### Tareas pendientes:
--
--
--
+- Continuar con la programación de la Raspberry.
+- Terminar la carcasa.
+- Seguir armando el diseño del circuito electrónico.
 
 ### APORTES INDIVIDUALES
 #### Integrante: Barrientes Dylan
 
-Tarea realizada:Ideas para agregar a la estructura
+Tarea realizada: Ideas para agregar a la estructura
 
  Propuse ideas sobre y detalles adicionales para el modelaje de la estructura en conjunto con Borecki Nicolas
 
-  Investigue sobre los distintos tipos de pesos permitidos, estabilidad, estrategias y demas
+Investigue sobre los distintos tipos de pesos permitidos, estabilidad, estrategias y demas
 
 
 #### Integrante: Baruque Mercedes
